@@ -1,9 +1,9 @@
 {
-    "name": "RosiePink170",
-    "description": "Rosie v2 but wayy more pink :333",
+    "name": "rosie",
+    "description": "Rosie for vendetta",
     "version": "2.3",
     "authors": [{
-        "name": "Rosie<3",
+        "name": "param",
         "id": "581573474296791211"
     }],
     "spec": 2,
